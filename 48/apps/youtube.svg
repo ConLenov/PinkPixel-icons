@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="youtube">
+    <path d="M24 0C37.2553 0 48 10.7447 48 24C48 37.2553 37.2553 48 24 48C10.7447 48 0 37.2553 0 24C0 10.7447 10.7447 0 24 0L24 0Z" id="Shape" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <path d="M13.5652 0C0.313044 0 0 0.104348 0 9.3913C0 18.6783 0.313044 18.7826 13.5652 18.7826C26.8174 18.7826 27.1304 18.6783 27.1304 9.3913C27.1304 0.104346 26.8174 0 13.5652 0L13.5652 0Z" transform="translate(10.434782 14.608696)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L7.30435 4.17391L0 8.34783L0 0Z" transform="translate(20.869564 19.826086)" id="Shape" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="terminal">
+    <path d="M24 0C37.2553 0 48 10.7447 48 24C48 37.2553 37.2553 48 24 48C10.7447 48 0 37.2553 0 24C0 10.7447 10.7447 0 24 0L24 0Z" id="Shape" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <path d="M3.13044 0L0 3.13043L6.26087 8.34783L0 13.5652L3.13044 16.6957L12.5217 8.34783L3.13044 0L3.13044 0ZM12.5217 16.6957L12.5217 20.8696L25.0435 20.8696L25.0435 16.6957L12.5217 16.6957L12.5217 16.6957Z" transform="translate(11.47826 13.565218)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

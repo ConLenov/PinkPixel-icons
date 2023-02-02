@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="calc">
+    <path d="M0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" id="Ellipse" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(10.036362 10.036377)">
+      <path d="M0 6.4C0 2.86538 2.86538 0 6.4 0C9.93462 0 12.8 2.86538 12.8 6.4C12.8 9.93462 9.93462 12.8 6.4 12.8C2.86538 12.8 0 9.93462 0 6.4Z" transform="translate(15.127274 15.127258)" id="Ellipse" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L5.81818 0L5.81818 1.16364L0 1.16364L0 0L0 0Z" transform="translate(18.618187 19.78183)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L5.81818 0L5.81818 1.16364L0 1.16364L0 0L0 0Z" transform="translate(18.618187 22.1091)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+      <path d="M0 6.4C0 2.86538 2.86538 0 6.4 0C9.93462 0 12.8 2.86538 12.8 6.4C12.8 9.93462 9.93462 12.8 6.4 12.8C2.86538 12.8 0 9.93462 0 6.4Z" transform="translate(0 15.127258)" id="Ellipse" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M0 2.32727L2.32727 2.32727L2.32727 0L3.49091 0L3.49091 2.32727L5.81818 2.32727L5.81818 3.49091L3.49091 3.49091L3.49091 5.81818L2.32727 5.81818L2.32727 3.49091L0 3.49091L0 2.32727L0 2.32727Z" transform="translate(3.4909058 18.618164)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+      <path d="M0 6.4C0 2.86538 2.86538 0 6.4 0C9.93462 0 12.8 2.86538 12.8 6.4C12.8 9.93462 9.93462 12.8 6.4 12.8C2.86538 12.8 0 9.93462 0 6.4Z" transform="translate(15.127274 0)" id="Ellipse" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M4.11462 0L4.93847 0.823855L3.29193 2.46924L4.93731 4.11462L4.11462 4.93731L2.46924 3.29193L0.823855 4.93731L0 4.11462L1.64538 2.46924L2.77433e-07 0.823855L0.822692 0.00116411L2.46924 1.64655L4.11462 2.77433e-07L4.11462 0Z" transform="translate(19.058037 3.9307861)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+      <path d="M0 6.4C0 2.86538 2.86538 0 6.4 0C9.93462 0 12.8 2.86538 12.8 6.4C12.8 9.93462 9.93462 12.8 6.4 12.8C2.86538 12.8 0 9.93462 0 6.4Z" id="Ellipse" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M5.81818 1.16364L0 1.16364L0 0L5.81818 0L5.81818 1.16364L5.81818 1.16364Z" transform="translate(3.4909058 5.8181763)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

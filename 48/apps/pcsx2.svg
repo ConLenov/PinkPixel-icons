@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="pcsx2">
+    <path d="M0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" id="Ellipse" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L0 4.17391L20.8696 4.17391C20.8696 6.26087 20.8696 10.4348 20.8696 10.4348L0 10.4348C0 14.6087 0.0239998 20.8487 0 20.8696L0 25.0435L25.0435 25.0435L25.0435 20.8696L4.17391 20.8696L4.17391 14.6087L25.0435 14.6087L25.0435 0" transform="translate(11.478261 11.478261)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

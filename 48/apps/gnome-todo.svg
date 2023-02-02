@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="gnome-todo">
+    <path d="M0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" id="Ellipse" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <path d="M0 12.5217L8.34783 20.8696L25.0435 3.13043L21.913 0L8.34783 14.6087L3.13043 9.3913" transform="translate(11.478261 13.565217)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

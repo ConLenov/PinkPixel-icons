@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="0ad">
+    <path d="M0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" id="Ellipse" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(8.347839 8.3479)">
+      <path d="M0 15.65C0 7.00674 7.00674 0 15.65 0C24.2933 0 31.3 7.00674 31.3 15.65C31.3 24.2933 24.2933 31.3 15.65 31.3C7.00674 31.3 0 24.2933 0 15.65Z" id="Ellipse" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L11.425 0C10.922 6.08097 6.08066 10.9221 0 11.425L0 0Z" transform="translate(16.695618 16.695435)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L11.425 0L11.425 11.425C5.34407 10.922 0.502957 6.08066 0 0L0 0Z" transform="translate(3.1836548 16.695435)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0C6.08097 0.503081 10.9221 5.34438 11.425 11.425L0 11.425L0 0Z" transform="translate(16.695618 3.1834717)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+      <path d="M11.425 0L11.425 11.425L0 11.425C0.503081 5.34407 5.34438 0.502958 11.425 9.95139e-07L11.425 0Z" transform="translate(3.1836548 3.1834717)" id="Shape-path" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

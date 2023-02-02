@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="file-manager">
+    <path d="M0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" id="Ellipse" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(12 15)">
+      <path d="M0 1.41358L0 1.41358C0 0.632882 0.632882 0 1.41358 0L22.1464 0C22.5213 0 22.8809 0.148931 23.146 0.414029C23.4111 0.679127 23.56 1.03868 23.56 1.41358L23.56 14.489C23.56 15.2697 22.9271 15.9026 22.1464 15.9026L1.41358 15.9026C0.632882 15.9026 0 15.2697 0 14.489L0 1.41358Z" transform="translate(0 1.1191406)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M0 1.22546L0 1.22546C0 0.548657 0.548656 0 1.22546 0L5.52858 0L5.52858 0C5.8536 0 6.1653 0.12911 6.39511 0.358929C6.62493 0.588747 6.75404 0.900447 6.75404 1.22546L6.75404 2.72038C6.75404 3.39718 6.20539 3.94584 5.52858 3.94584L1.22546 3.94584C0.548656 3.94584 0 3.39718 0 2.72038L0 1.22546Z" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L4.09949 0L5.227 1.12751L5.227 4.00494L0 4.00494L0 0Z" transform="translate(2.2306824 0)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

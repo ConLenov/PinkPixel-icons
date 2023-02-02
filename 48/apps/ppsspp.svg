@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="ppsspp">
+    <path d="M24 0C37.2553 0 48 10.7447 48 24C48 37.2553 37.2553 48 24 48C10.7447 48 0 37.2553 0 24C0 10.7447 10.7447 0 24 0L24 0Z" id="Shape" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(10.434935 10.434575)">
+      <path d="M9.01618 0L10.649 7.19911L7.1722 12.8126L1.63283 9.26366L0 2.06455L9.01618 0Z" transform="translate(6.157221 0)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M0 1.64056L7.1652 0L12.7523 3.49327L9.22002 9.05885L2.05482 10.6994L0 1.64056Z" transform="translate(0 10.220398)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M1.63283 12.8126L0 5.61352L3.47681 0L9.01618 3.54897L10.649 10.7481L1.63283 12.8126Z" transform="translate(10.210319 14.318029)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M12.7523 9.05885L5.58708 10.6994L0 7.20614L3.53226 1.64056L10.6975 0L12.7523 9.05885Z" transform="translate(14.377858 6.1851315)" id="Shape" fill="#353130" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

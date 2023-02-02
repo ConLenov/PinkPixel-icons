@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="anydesk">
+    <path d="M0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" id="Ellipse" fill="#FCD5D5" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(9.391304 13.565217)">
+      <path d="M2.08696 0L0 2.08696L8.34783 10.4348L0 18.7826L2.08696 20.8696L12.5217 10.4348L2.08696 0L2.08696 0Z" transform="translate(16.695652 0)" id="Shape-path" fill="#353130" fill-rule="evenodd" stroke="none" />
+      <path d="M10.4348 0L0 10.4348L10.4348 20.8696L20.8696 10.4348L10.4348 0L10.4348 0Z" id="Shape-path" fill="#353130" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
