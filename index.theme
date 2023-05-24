@@ -1,0 +1,15 @@
+[Icon Theme]
+Name=PinkPixel
+Comment=PinkPixel icon theme in the style of Google Pixel
+
+Example=directory-x-normal
+
+# Directory list
+Directories=48/apps
+
+[48/apps]
+Size=48
+Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
